@@ -5,18 +5,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <h1>Vestibular Fatec 2022</h1>
+       <h2>Ensino Superior</h2>
+       <p>Cursos <b>GRATUITOS</b> e de Qualidade</p>
+       <p>Presenciais e a Distância</p>
       </header>
     </div>
   );
